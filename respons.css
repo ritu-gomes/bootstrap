@@ -5,3 +5,10 @@
         font-weight: 500;
     }
 }
+@media screen and (max-width:576px){
+    footer ul li a{
+        margin: .8rem;
+        font-size: .8rem;
+        font-weight: 400;
+    }
+}
